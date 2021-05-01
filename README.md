@@ -1,2 +1,2 @@
 # MyRustWork
-Learning Rust Programming Language
+Rust Programming Language, 2021
